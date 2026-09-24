@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "6aa6a1ed716bfaa33813383b"
+  },
+  "RollNumber": "BCA2501",
+  "Name": "Ishaan Gupta",
+  "Department": "Computer Applications",
+  "Semester": 1,
+  "CGPA": 8
+},
+{
+  "_id": {
+    "$oid": "6aa6a1ed716bfaa33813383c"
+  },
+  "RollNumber": "BCA2502",
+  "Name": "Ananya Joshi",
+  "Department": "Data Science",
+  "Semester": 1,
+  "CGPA": 8.4
+}]

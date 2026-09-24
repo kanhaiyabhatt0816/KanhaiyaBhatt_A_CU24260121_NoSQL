@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6aa50beb14ba917f442bbfd3"
+  },
+  "RollNumber": "BCA2401",
+  "Name": "Aarav Sharma",
+  "Department": "Computer Applications",
+  "Semester": 5,
+  "CGPA": 8.7,
+  "Email": "bca2401@studentdb.edu.in"
+},
+{
+  "_id": {
+    "$oid": "6aa50c1014ba917f442bbfd4"
+  },
+  "RollNumber": "BCA2402",
+  "Name": "Diya Patel",
+  "Department": "Computer Applications",
+  "Semester": 5,
+  "CGPA": 9.1,
+  "Email": "bca2402@studentdb.edu.in"
+},
+{
+  "_id": {
+    "$oid": "6aa50c1014ba917f442bbfd6"
+  },
+  "RollNumber": "BCA2404",
+  "Name": "Sneha Reddy",
+  "Department": "Computer Applications",
+  "Semester": 5,
+  "CGPA": 8.6,
+  "Email": "bca2404@studentdb.edu.in"
+},
+{
+  "_id": {
+    "$oid": "6aa50c1014ba917f442bbfd7"
+  },
+  "RollNumber": "BCA2405",
+  "Name": "Karan Verma",
+  "Department": "Artificial Intelligence",
+  "Semester": 1,
+  "CGPA": 8.9,
+  "Email": "bca2405@studentdb.edu.in"
+}]

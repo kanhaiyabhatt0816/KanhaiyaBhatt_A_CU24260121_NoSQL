@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "6aa50dab14ba917f442bbfd9"
+  },
+  "DeptCode": "CA",
+  "DeptName": "Computer Applications",
+  "HOD": "Dr. R. Kumar",
+  "TotalFaculty": 12
+},
+{
+  "_id": {
+    "$oid": "6aa50dab14ba917f442bbfda"
+  },
+  "DeptCode": "IT",
+  "DeptName": "Information Technology",
+  "HOD": "Dr. S. Iyer",
+  "TotalFaculty": 9
+},
+{
+  "_id": {
+    "$oid": "6aa50dab14ba917f442bbfdb"
+  },
+  "DeptCode": "DS",
+  "DeptName": "Data Science",
+  "HOD": "Dr. M. Rao",
+  "TotalFaculty": 6
+}]
